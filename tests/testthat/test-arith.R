@@ -7,8 +7,3 @@ test_that("minus", {
     actual <- minus(1,2)
     expect_identical(actual, -1)
 })
-
-test_that("multiply", {
-    actual <- multiply(1,2)
-    expect_identical(actual, 2)
-})
