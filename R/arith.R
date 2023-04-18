@@ -7,4 +7,4 @@ minus <- function(a, b)
 areaOfCircle <- function(r)
     return(3 * square(r))
 
-# aaaaaaaaa
+# aaaaaaa
