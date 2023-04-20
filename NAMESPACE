@@ -1,3 +1,0 @@
-importFrom(manualbugLib,square)
-importFrom(manualbugLib,multiply)
-importFrom(manualbugLibLib,divide)
