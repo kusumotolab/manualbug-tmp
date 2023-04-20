@@ -13,8 +13,10 @@ URL: https://dplyr.tidyverse.org, https://github.com/tidyverse/dplyr
 BugReports: https://github.com/tidyverse/dplyr/issues
 Depends:
 Imports:
-    manualbugLib
+    manualbugLib,
+    manualbugLibLib
 Suggests:
     testthat
 Remotes:
-    kusumotolab/manualbugLib
+    kusumotolab/manualbugLib,
+    kusumotolab/manualbugLibLib
